@@ -1,7 +1,7 @@
 module.exports = {
-  SESSION_ID:"SUBZERO-MD;;;mcsECKAZ#v4ty4MA7PwDQNOzSb48R22hepiGOnHB_0xuKoVF_6w4", // Put Session Id Here Inside "*"
+  SESSION_ID:"SUBZERO-MD;;;OEMjxCCY#Mk6DSQyeNCV3nznEUhUnW5Evm3DGCIuHVrslIQq6V4E", // Put Session Id Here Inside "*"
   OWNER_NUMBER: "2347079582341", // Put Owner Number Here 
-  PREFIX: ".", // Default Prefix You Can Change To .,*!?+-&%#@
+  PREFIX: "*", // Default Prefix You Can Change To .,*!?+-&%#@
   CDN: "https://mrfrankk-cdn.hf.space" // Dont change this part
 };
 
